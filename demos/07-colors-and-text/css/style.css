@@ -1,0 +1,28 @@
+#first-paragraph {
+    color:purple;
+    background-color: gold;
+    font-style: italic;
+    text-align: center ;
+}
+#second-paragraph {
+    color:rgb(24, 161, 129);
+    background-color: rgb(151, 232, 128);
+    font-size: px;
+    text-decoration:line-through;
+}
+#bold-paragraph {
+    font-weight: bold;
+}
+#span1 {
+    color:cornflowerblue;
+    font-weight: bold;
+    font-size: 48px;
+}
+#span2 {
+    font-style: italic;
+    text-decoration: underline;
+
+}
+#span3 {
+    background-color: red;
+}
