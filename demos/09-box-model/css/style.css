@@ -1,0 +1,12 @@
+div {
+    border: 10px ridge #23d3b6;
+    margin: 48px;
+    padding: 24px 36px;
+    background-color: hsl(79, 52%, 53%);
+}
+p {
+    border: none;
+    margin: 48px;
+    padding: 48px 60px;
+    background-color: rgb(255, 138, 96)
+}
