@@ -10,6 +10,7 @@
     border: 3px solid black;
     border-radius: 24px;
     width: 700px;
+    font-family: sans-serif;
 }
 #left-side {
     border: 3px solid red;
@@ -20,5 +21,53 @@
     display: inline-block
 }
 #id-and-expiration div {
+    display: inline-block;
+    color: blue;
+}
+h4 {
+    border: 3px solid beige;
+}
+#id-and-expiration {
+    border: 3px solid greenyellow;
+}
+#address {
+    border: 3px solid white;
+}
+#personal-info {
+    border: 3px solid palevioletred;
+}
+#id-and-expiration div {
+    border: 3px solid green;
+}
+#small-pic {
+    border: 3px solid purple;
+}
+#data-fields {
+    border: 3px solid blue;
+}
+#small-pic img {
+    border: 3px solid limegreen;
+}
+#data-left {
+    border: 3px solid red
+}
+#data-right {
+    border: 3px solid #00ff66;
+}
+#signature {
+    border: 3px solid yellow
+}
+#right-side {
+    border: 3px solid blue;
+}
+#donor-and-real-id {
+    border: 3px solid green;
+}
+#data-left,
+#data-right {
+    display: inline-block;
+}
+#small-pic,
+#data-fields {
     display: inline-block;
 }
