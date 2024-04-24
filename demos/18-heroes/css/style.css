@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;    
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#hero-1 {
+    background-image: url("../images/lizard.jpg");
+    height: 100vh;
+}
+
+.spacer {
+    height: 50vh
+}
+
+.spacer
