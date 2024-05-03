@@ -49,7 +49,10 @@ body {
     margin: 0px auto; 
 }
 
-#img {
-    width: 100px;
-    height: 100px;
+img {
+    width: 300px;
+}
+
+.center-column {
+    text-align: center;
 }
