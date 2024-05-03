@@ -1,0 +1,44 @@
+#one {
+    border: 3px solid black;
+    color: green;
+}
+
+#two {
+    padding: 10px;
+    
+}
+
+#para {
+    background-color: aqua;
+}
+
+#graph {
+    background-color: aquamarine;
+}
+
+#two {
+    display: flex;
+}
+
+#blue {
+    border: 3px solid blue;
+    width: 24px;
+    height: 24px;
+}
+
+#red {
+    border: 4px solid green;
+    width: 150px;
+    height: 200px;
+}
+
+#yellow {
+    border: 2px solid red;
+    width: 140px;
+    height: 200px;
+}
+
+#three {
+    display: flex;
+    justify-content: space-between;
+}
