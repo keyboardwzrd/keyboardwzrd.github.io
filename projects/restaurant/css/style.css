@@ -73,9 +73,13 @@ body {
     align-items: center;
 }
 
+#hero-4.menu {
+    background-image: url("../images/rest9.jpg");
+    color: rgb(255, 255, 255)
+}
+
 #hero-4 .hero-content {
     text-align: center;
-    color: black;
     padding-top: 20vh;
 }
 
