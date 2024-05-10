@@ -56,7 +56,7 @@ body {
         enable scrolling to test the 
         sticky navbar
     */
-    height: 150vh;
+    
 }
 
 .spacer {
@@ -64,7 +64,7 @@ body {
 }
 
 #hero-4 {
-    background-image: url("../images/stars-on-velvet.jpg");
+    background-image: url("../images/hero.jpg");
     height: 100vh;
     background-size: cover;
     background-position: center center;
@@ -133,17 +133,6 @@ body {
 /*
     Layout setup and configuration
 */
-#layout {
-    width: 800px;
-    margin: 48px auto;
-    font-size: 24px;
-}
-
-#layout {
-    max-width: 800px;
-    margin: 48px auto;
-    text-align: center;
-}
 
 /* 
     Gallery setup 
